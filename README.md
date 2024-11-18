@@ -1,4 +1,4 @@
-## 👋 Bonjour, je suis [Ambre] !
+## 👋 Bonjour, je suis Ambre !
 
 Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
 
@@ -14,8 +14,8 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
 
 ## 📫 Me contacter
 
-- **Email** : [ambrebarah@gmail.com]
-- **LinkedIn** : [[ LinkedIn](https://www.linkedin.com/in/ambre-barah-b9543a176/)]
-- **Portfolio** : [[portfolio(https://www.ambrebarah.com/)]
+- **Email** : ambrebarah@gmail.com
+- **LinkedIn** : [ LinkedIn](https://www.linkedin.com/in/ambre-barah-b9543a176/)
+- **Portfolio** : [portfolio(https://www.ambrebarah.com/)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion autour de la technologie !
