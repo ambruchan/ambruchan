@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Bonjour, je suis [Ambre] !
 
-<!--
-**ambruchan/ambruchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Formation** : Étudiante en [conceptrice de projet SI] à l'ETNA.
+- 💼 **Projets académiques** : [à venir].
+- 🌱 **Compétences en développement** :
+  - Langages : [JavaScript, PHP, Python, Java, Ruby, C ].
+  - Frameworks : [ React, Node.js, Django, Laravel, Symfony].
+  - Outils : [Git, Docker, VS Code].
+- 🔭 **Centres d'intérêt** : [intelligence artificielle, développement web, cybersécurité].
+
+## 📫 Me contacter
+
+- **Email** : [ambrebarah@gmail.com]
+- **LinkedIn** : [[ LinkedIn](https://www.linkedin.com/in/ambre-barah-b9543a176/)]
+- **Portfolio** : [[portfolio(https://www.ambrebarah.com/)]
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion autour de la technologie !
