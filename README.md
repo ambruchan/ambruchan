@@ -16,6 +16,6 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
 
 - **Email** : ambrebarah@gmail.com
 - **LinkedIn** : [ LinkedIn](https://www.linkedin.com/in/ambre-barah-b9543a176/)
-- **Portfolio** : [portfolio(https://www.ambrebarah.com/)
+- **Portfolio** : [portfolio](https://www.ambrebarah.com/)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou discussion autour de la technologie !
