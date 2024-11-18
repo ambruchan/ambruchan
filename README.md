@@ -10,7 +10,7 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
   - Langages : **JavaScript, PHP, Python, Java, Ruby, C **.
   - Frameworks : **React, Node.js, Django, Laravel, Symfony**.
   - Outils : **Git, Docker, VS Code**.
-- 🔭 **Centres d'intérêt** : **intelligence artificielle, développement web, cybersécurité**.
+- 🔭 Centres d'intérêt : **intelligence artificielle, développement web, cybersécurité**.
 
 ## 📫 Me contacter
 
