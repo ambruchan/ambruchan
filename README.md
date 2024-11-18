@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je suis actuellement étudiante à l'**ETNA**
 - 🎓 **Formation** : Étudiante en **conceptrice de projet SI** à l'ETNA.
 - 💼 **Projets académiques** : **à venir**.
 - 🌱 **Compétences en développement** :
-  - Langages : **JavaScript, PHP, Python, Java, Ruby, C **.
+  - Langages : **JavaScript, PHP, Python, Java, Ruby, C**.
   - Frameworks : **React, Node.js, Django, Laravel, Symfony**.
   - Outils : **Git, Docker, VS Code**.
 - 🔭 Centres d'intérêt : **intelligence artificielle, développement web, cybersécurité**.
